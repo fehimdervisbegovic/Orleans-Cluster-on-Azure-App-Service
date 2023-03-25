@@ -7,8 +7,8 @@ on:
 
 env:
   UNIQUE_APP_NAME: devint22cart
-  AZURE_RESOURCE_GROUP_NAME: orleanscartrg
-  AZURE_RESOURCE_GROUP_LOCATION: westus
+  AZURE_RESOURCE_GROUP_NAME: rg-orleanstest
+  AZURE_RESOURCE_GROUP_LOCATION: northeurope
 
 jobs:
   build-and-deploy:
